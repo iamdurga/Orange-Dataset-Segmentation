@@ -1,2 +1,2 @@
 # Orange-Dataset-Segmentation
-This repository is created to do different image processing task on orange datasets.
+This repository was created to perform various image processing tasks on datasets related to oranges. The dataset consists of two labels: healthy and infected. You can find the datasets on Kaggle [here](https://www.kaggle.com/datasets/durgapokharel/orange-infection-mask-dataset). Currently, the datasets are private. After the research paper is published, I will make the datasets public.
